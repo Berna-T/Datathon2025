@@ -1,0 +1,31 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+
+# Environment / dependency files
+.env
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (sensitive or large, do not include)
+data/
+*.csv
+*.parquet
+
+# Model outputs / trained models
+outputs/
+*.h5
+*.pkl
+*.joblib
+
+# OS or editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.idea/
+*.vscode/
