@@ -10,7 +10,7 @@ This repository contains solution for predicting session values in an e-commerce
 ## Notebooks 
 - EDA.ipynb : Exploratory Data Analysis
 - Preprocess.ipynb : Feature engineering and data preparation
-- hyperparameter_search.ipynb : hyperparamter search process
+- hyperparameter_search.ipynb : hyperparameter search process
 - train_final.ipynb : Model training and evaluation
 
 ## Models 
